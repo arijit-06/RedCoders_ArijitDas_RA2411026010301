@@ -11,18 +11,18 @@ Email ID: ad3568@srmist.edu.in
 
 Team Member 2:
 Name: Anant Singh Kushwaha
-Reg No: RA2411026010177
+Reg No: RA2411030010177
 Email ID: as7983@srmist.edu.in
 
 Team Member 3:
 Name: Shashank Kumar Pathak
-Reg No: RA2411026010278
+Reg No: RA2411003010278
 Email ID: sk2069@srmist.edu.in
 
 Team Member 4:
-Name: Pratyaksh
-Reg No:
-Email ID:
+Name: Pratyaksh Singh
+Reg No: RA2411028010055
+Email ID: ps2611@srmist.edu.in
 
 Food Tech
 
